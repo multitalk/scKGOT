@@ -72,12 +72,6 @@ scKGOT/
 └── requirements.txt # List of dependencies for the project
 ```
 
-### Key Modules
-- **core.py**: Implements the core scKGOT architecture, integrating LRP-KG and optimal transport theory.
-- **ot_solver.py**: Solves the optimal transport problem to model the transfer of biological signals between ligands and receptors.
-- **main.py**: The entry point for running the scKGOT pipeline, with configurable settings in YAML format.
-- **knowledge.py**: Builds and processes the Ligand-Receptor-Pathway Knowledge Graph (LRP-KG) used for pathway inference.
-
 ## Data Requirements
 
 scKGOT requires two primary inputs:  
