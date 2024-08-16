@@ -1,0 +1,151 @@
+pathway_name,discrepancy,rank
+Insulin secretion,2328.7875005712685,1
+GnRH secretion,2377.6762651254844,2
+Notch signaling pathway,5036.357396534647,3
+Fc epsilon RI signaling pathway,6343.206801926591,4
+Costimulation by the CD28 family,7313.239607072553,5
+Renin secretion,8025.488004057619,6
+Long-term potentiation,9291.401205135491,7
+Endometrial cancer,9765.900563628165,8
+Hemostasis,9837.298446787216,9
+Longevity regulating pathway,10443.868580114171,10
+AMPK signaling pathway,11247.241364062678,11
+Cushing syndrome,13304.685310259356,12
+JAK-STAT signaling pathway,13319.625829029437,13
+Cortisol synthesis and secretion,14482.483566677372,14
+Viral protein interaction with cytokine and cytokine receptor,15099.982666395768,15
+Longevity regulating pathway - multiple species,15561.910862865501,16
+Insulin resistance,16634.811349731543,17
+Pancreatic cancer,17243.720039290572,18
+Glioma,17308.82092914005,19
+Progesterone-mediated oocyte maturation,17843.490129502323,20
+Cholinergic synapse,18065.941113080265,21
+Sphingolipid signaling pathway,20179.980268953615,22
+Chronic myeloid leukemia,23058.199131156303,23
+Renal cell carcinoma,23919.320424270496,24
+GABAergic synapse,24983.473280382466,25
+FoxO signaling pathway,27821.786777017634,26
+GnRH signaling pathway,28893.519092962208,27
+ErbB signaling pathway,32035.321667291435,28
+AGE-RAGE signaling pathway in diabetic complications,32778.741837751884,29
+Influenza A,35593.893168885006,30
+Cardiac conduction,36673.79794419724,31
+Non-small cell lung cancer,37453.47472236008,32
+Cytokine-cytokine receptor interaction,40971.82414115672,33
+Glucagon signaling pathway,41461.67535812629,34
+Cell cycle,47669.88393331212,35
+TGF-beta signaling pathway,58624.3215596182,36
+Calcium signaling pathway,59628.97943953969,37
+Th1 and Th2 cell differentiation,60045.63051451621,38
+Toxoplasmosis,61304.84984846298,39
+PD-L1 expression and PD-1 checkpoint pathway in cancer,62116.802459652,40
+Apelin signaling pathway,75909.36965822265,41
+Fc gamma R-mediated phagocytosis,79651.8238174297,42
+Morphine addiction,82385.12445581492,43
+EPH-Ephrin signaling,82897.50441422327,44
+mTOR signaling pathway,83939.28243976881,45
+Melanoma,84539.06492162083,46
+Gap junction,88970.91832394587,47
+VEGFA-VEGFR2 Pathway,95710.13384835693,48
+Signaling by VEGF,96119.14911347511,49
+Thermogenesis,97320.04578867486,50
+Prolactin signaling pathway,104184.00827361605,51
+Melanogenesis,109785.54774822092,52
+Estrogen signaling pathway,118950.11908507257,53
+HIF-1 signaling pathway,121878.25104348837,54
+EGFR tyrosine kinase inhibitor resistance,123334.98468400838,55
+Prostate cancer,124068.94118514401,56
+Signaling by Receptor Tyrosine Kinases,124251.78993014412,57
+Toll-like receptor signaling pathway,127187.61294437428,58
+Chemokine signaling pathway,127389.04007174118,59
+Tuberculosis,129364.8385552914,60
+Oocyte meiosis,129625.49620286343,61
+VEGF signaling pathway,133649.3966188126,62
+Adherens junction,133733.7760623301,63
+Insulin signaling pathway,135397.08505530373,64
+Hedgehog 'on' state,136559.26928102283,65
+Adrenergic signaling in cardiomyocytes,136700.15649535647,66
+Choline metabolism in cancer,138983.40791577435,67
+Endocrine resistance,145054.72875710155,68
+Th17 cell differentiation,145324.13919203667,69
+Metabolism of lipids,148884.17092665847,70
+"Growth hormone synthesis, secretion and action",151073.53916743645,71
+Complement and coagulation cascades,154673.22939413905,72
+cGMP-PKG signaling pathway,155131.373272433,73
+ECM-receptor interaction,156003.49425957567,74
+Alcoholism,157452.94823325408,75
+Colorectal cancer,158510.3887289907,76
+TNF signaling pathway,161491.23566858887,77
+NOD-like receptor signaling pathway,161706.90376617276,78
+Chagas disease,171547.9815645464,79
+Chagas disease (American trypanosomiasis),171547.9815645464,79
+Hippo signaling pathway,171826.01310873538,81
+Salmonella infection,175444.41728855175,82
+Hepatocellular carcinoma,176054.71440835058,83
+TNFR2 non-canonical NF-kB pathway,178193.64700010893,84
+Cell adhesion molecules (CAMs),184949.14307773166,85
+Cell adhesion molecules,184949.14307773166,85
+Ras signaling pathway,186929.40542582577,87
+Hepatitis B,188402.978752388,88
+Signaling by Hedgehog,193346.49927095504,89
+Aldosterone synthesis and secretion,193616.72851688665,90
+Signaling by NOTCH4,194597.73693988615,91
+Circadian entrainment,195191.1503216077,92
+Measles,197707.66635970928,93
+cAMP signaling pathway,200576.37429096462,94
+Relaxin signaling pathway,207281.2180046054,95
+NF-kappa B signaling pathway,218910.62614375787,96
+Axon guidance,220906.56892296654,97
+Signaling Pathways,223896.5800908695,98
+Rap1 signaling pathway,226854.2277132133,99
+Bacterial invasion of epithelial cells,228213.77853218582,100
+Transport of small molecules,229886.22538651337,101
+Oxytocin signaling pathway,233528.86988274145,102
+Retrograde endocannabinoid signaling,235031.8450200063,103
+Antigen processing and presentation,238472.01324787346,104
+Interleukin-1 family signaling,238549.30407869036,105
+Interleukin-12 family signaling,238613.839413009,106
+Interleukin-1 signaling,244655.81394015046,107
+Vascular smooth muscle contraction,245173.71831084357,108
+Small cell lung cancer,249939.15364072064,109
+Leukocyte transendothelial migration,269416.71381275647,110
+Signaling by TGFB family members,293946.06584665534,111
+Pre-NOTCH Expression and Processing,296791.8861875924,112
+Platelet activation,300694.3908465805,113
+Neurotrophin signaling pathway,302224.60527863563,114
+TCF dependent signaling in response to WNT,329716.3283807389,115
+Yersinia infection,335475.75747011264,116
+Toll-like Receptor Cascades,359359.84552922664,117
+Natural killer cell mediated cytotoxicity,380799.27578314906,118
+Kaposi sarcoma-associated herpesvirus infection,385416.7156771961,119
+Necroptosis,392016.17733937036,120
+MyD88-independent TLR4 cascade,397768.6241218816,121
+TRIF(TICAM1)-mediated TLR4 signaling,397768.6241218816,121
+Fc epsilon receptor (FCERI) signaling,400324.7307308491,123
+Signaling by NOTCH,413105.22371171974,124
+Glutamatergic synapse,415234.2580354958,125
+MAPK signaling pathway,417316.7435138814,126
+Gastric acid secretion,420315.55543528165,127
+Osteoclast differentiation,429268.43611993914,128
+Programmed Cell Death,442541.7292334612,129
+PI3K-Akt signaling pathway,442941.40019758,130
+Toll Like Receptor 4 (TLR4) Cascade,460942.3721679718,131
+Regulation of actin cytoskeleton,543443.3541565022,132
+Cellular senescence,586089.5581349009,133
+Focal adhesion,588802.859570157,134
+Pathogenic Escherichia coli infection,592629.7687051338,135
+Proteoglycans in cancer,596309.8639783459,136
+Human papillomavirus infection,614095.1237814787,137
+Muscle contraction,617452.3201599915,138
+Pathways in cancer,640595.2956192147,139
+Interferon gamma signaling,661231.1102455831,140
+Fluid shear stress and atherosclerosis,668595.2266971425,141
+Human T-cell leukemia virus 1 infection,693091.7896153319,142
+Herpes simplex virus 1 infection,695543.8714822269,143
+Human cytomegalovirus infection,726976.0496404301,144
+Human immunodeficiency virus 1 infection,735191.7445379691,145
+Interferon alpha/beta signaling,770473.0240804183,146
+Epstein-Barr virus infection,846974.2040724511,147
+Apoptosis,1013819.4433058548,148
+Signaling by Interleukins,1731216.0566866156,149
+Metabolism,2358822.5535293664,150

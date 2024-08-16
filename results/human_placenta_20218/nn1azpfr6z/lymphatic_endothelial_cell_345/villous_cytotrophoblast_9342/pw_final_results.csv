@@ -1,0 +1,45 @@
+pathway_name,discrepancy,rank,p_value
+Renin secretion,8025.488004057619,44,0.0
+Long-term potentiation,9291.401205135491,43,0.0
+Hemostasis,9837.298446787216,42,0.0
+AMPK signaling pathway,11247.241364062678,41,0.0
+Cushing syndrome,13304.685310259356,40,0.0
+JAK-STAT signaling pathway,13319.625829029435,39,0.0
+Glioma,17308.82092914005,38,0.0
+Progesterone-mediated oocyte maturation,17843.490129502323,37,0.0
+Sphingolipid signaling pathway,20179.98026895361,36,0.0
+FoxO signaling pathway,27821.786777017634,35,0.0
+GnRH signaling pathway,28893.519092962208,34,0.0
+Cardiac conduction,36673.79794419724,33,0.0
+Cell cycle,47669.88393331212,32,0.0
+Calcium signaling pathway,59628.97943953969,31,0.0
+Apelin signaling pathway,75909.36965822265,30,0.01
+EPH-Ephrin signaling,82897.50441422327,29,0.0
+mTOR signaling pathway,83939.28243976881,28,0.0
+Thermogenesis,97320.04578867486,27,0.0
+Estrogen signaling pathway,118950.11908507255,26,0.0
+HIF-1 signaling pathway,121878.25104348836,25,0.0
+Oocyte meiosis,129625.49620286345,24,0.0
+Hedgehog 'on' state,136559.26928102283,23,0.0
+Metabolism of lipids,148884.17092665847,22,0.0
+cGMP-PKG signaling pathway,155131.373272433,21,0.0
+Alcoholism,157452.94823325408,20,0.0
+Hippo signaling pathway,171826.01310873538,19,0.0
+Salmonella infection,175444.41728855175,18,0.0
+Hepatocellular carcinoma,176054.71440835058,17,0.0
+TNFR2 non-canonical NF-kB pathway,178193.64700010893,16,0.0
+Signaling by Hedgehog,193346.49927095504,15,0.0
+Signaling by NOTCH4,194597.73693988612,14,0.0
+Transport of small molecules,229886.22538651337,13,0.0
+Oxytocin signaling pathway,233528.86988274145,12,0.0
+Retrograde endocannabinoid signaling,235031.8450200063,11,0.01
+Interleukin-1 family signaling,238549.3040786904,10,0.0
+Interleukin-1 signaling,244655.8139401505,9,0.0
+TCF dependent signaling in response to WNT,329716.3283807389,8,0.0
+Fc epsilon receptor (FCERI) signaling,400324.7307308491,7,0.0
+Signaling by NOTCH,413105.2237117197,6,0.0
+Programmed Cell Death,442541.7292334612,5,0.0
+Pathways in cancer,640595.2956192147,4,0.0
+Apoptosis,1013819.4433058548,3,0.0
+Signaling by Interleukins,1731216.0566866156,2,0.0
+Metabolism,2358822.5535293664,1,0.0
