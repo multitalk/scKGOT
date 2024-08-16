@@ -25,7 +25,7 @@ To install scKGOT and its dependencies, follow these steps:
 
 ### Setup
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/scKGOT.git`  
+   `git clone https://github.com/HICAI-ZJU/scKGOT/git`
    `cd scKGOT`
 
 2. Install dependencies:  
