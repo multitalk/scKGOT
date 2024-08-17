@@ -33,7 +33,6 @@ def meta_prediction(args, task_holder, pathway_info):
                 tolerance=args.tolerance,
                 nb_dummies=args.nb_dummies,
                 num_threads=num_threads)
-        # TODO this may be problematic?
         if len(err) == 1:
             return empty_df, (None, None)
     except Exception as e:
